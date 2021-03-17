@@ -288,3 +288,14 @@ beego的项目目录结构如下：
 * `controller.TplName`指定渲染当前页面的模板文件全称
 * 模板文件中通过`{{.param}}`实现变量数据的获取操作
 * `controller.Data["param"]=xxx`实现对页面的需要使用的变量进行赋值操作
+
+## 参考
+
+**博客项目的具体文档**
+具体参考：[Go语言web框架Beego从入门到超神_千锋](https://www.bilibili.com/video/BV1cg4y1B7Ev)
+> 有一说一，讲的不咋地，主要是看文档后面做的，他也主要看文档讲的
+文档地址:
+1. [项目搭建、登录注册、Session功能开发](https://github.com/Aaron-cdx/myblog/blob/master/day38_%E9%A1%B9%E7%9B%AE%E6%90%AD%E5%BB%BA%E3%80%81%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C%E5%92%8CSession%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91.md)
+2. [写文章、项目首页、查看文章详情](https://github.com/Aaron-cdx/myblog/blob/master/day39_%E5%86%99%E6%96%87%E7%AB%A0%E3%80%81%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%A1%B5%E5%92%8C%E6%9F%A5%E7%9C%8B%E6%96%87%E7%AB%A0%E8%AF%A6%E6%83%85%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91.md)
+3. [修改文章、删除文章、标签](https://github.com/Aaron-cdx/myblog/blob/master/day40_%E4%BF%AE%E6%94%B9%E6%96%87%E7%AB%A0%E3%80%81%E5%88%A0%E9%99%A4%E6%96%87%E7%AB%A0%E5%92%8C%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91.md)
+4. [首页功能扩展、图片上传、关于、总结](https://github.com/Aaron-cdx/myblog/blob/master/day41_%E9%A6%96%E9%A1%B5%E5%8A%9F%E8%83%BD%E6%89%A9%E5%B1%95%E3%80%81%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%92%8C%E5%85%B3%E4%BA%8E%E5%8A%9F%E8%83%BD%E5%BC%80%E5%8F%91.md)
